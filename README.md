@@ -43,7 +43,7 @@ Or use it as a function inside a Python script:
 ```python
 from converter import process_csv_to_excel
 
-process_csv_to_excel("input_file.xlsx", "output_file.xlsx")
+process_purchase_to_tally("input_file.xlsx", "output_file.xlsx")
 ```
 
 ---
@@ -89,7 +89,7 @@ pip install pandas openpyxl
 ## 🛠️ Future Improvements
 
 - Add GUI using Streamlit or Tkinter
-- Support `.csv` format input
+- Support `.xlsx` format input
 - Add validations and error handling for missing columns
 
 ---
