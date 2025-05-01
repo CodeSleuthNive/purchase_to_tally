@@ -21,8 +21,8 @@ The **Purchase to Tally Converter** is a Streamlit-based web application that al
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/purchase-to-tally-converter.git
-cd purchase-to-tally-converter
+git clone https://github.com/CodeSleuthNive/purchase_to_tally.git
+cd purchase_to_tally
 ```
 
 2. **Create a Virtual Environment**
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. **Run the Streamlit App**
 
 ```bash
-streamlit run app.py
+streamlit run purchase_to_tally_streamlit.py
 ```
 
 ---
