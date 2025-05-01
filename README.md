@@ -41,7 +41,7 @@ python script_name.py  # Replace with actual file name or use in function form
 Or use it as a function inside a Python script:
 
 ```python
-from converter import process_csv_to_excel
+from converter import process_purchase_to_tally
 
 process_purchase_to_tally("input_file.xlsx", "output_file.xlsx")
 ```
