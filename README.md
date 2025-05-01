@@ -1,4 +1,7 @@
-# Purchase to Tally Converter
+# Excel2Tally - Purchase 
+
+
+### Purchase to Tally Converter
 
 ## Overview
 
